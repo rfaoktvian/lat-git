@@ -12,7 +12,7 @@ struct buku{
 
 int main(){
     
-    data1.judul_buku = "Kasur Rusak";
+    data1.judul_buku = "Kasur Kasar";
     data1.pengarang = "Yanto";
     data1.penerbit = "Racing Hell";
     data1.tebal_halaman = 212;
